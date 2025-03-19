@@ -1,5 +1,6 @@
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
+import "./Profile.css";
 
 export default function Profile() {
   return (
@@ -39,7 +40,7 @@ export default function Profile() {
                 words={[
                   "Enthusiastic Dev",
                   "Full Stack Developer",
-                  "MERN Stack Dev",
+                  "DevOps Dev",
                   "Cross Platform Dev",
                   "React/React Native Dev",
                 ]}
